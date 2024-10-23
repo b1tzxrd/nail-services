@@ -1,0 +1,9 @@
+.booking-list {
+    width: 500px;
+    height: 300px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+}

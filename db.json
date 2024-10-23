@@ -1,0 +1,7 @@
+{
+    "booking": [],
+    "services": [
+        {"id": 1, "Manicure", "price": 5000}
+        {"id": 2, "Pedicure", "price": 10000},
+    ]
+}
